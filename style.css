@@ -13,3 +13,9 @@ body{
     margin-left: 40%;
     font-family: 'Roboto', sans-serif;
 }
+
+.kepek{
+    width: 10%;
+    height: 10%;
+    float: left;
+}
